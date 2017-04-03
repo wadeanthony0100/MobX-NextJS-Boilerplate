@@ -18,3 +18,9 @@ Clone and run:
 npm install
 npm run dev
 ```
+
+##Notes:
+
+- Change your dev port with `npm run dev NODE_PORT=8000`, for example
+- Build for Production with `npm run build`
+- Run your prod build locally with `npm start`
